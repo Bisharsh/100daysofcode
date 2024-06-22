@@ -35,4 +35,6 @@ else:
     elif extra_cheese == "Y":
         price += 1
     else: 
-        price = 25        
+        price = 25   
+
+print(f'your total bill is ${price}')     
